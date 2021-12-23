@@ -7,14 +7,14 @@
     "dev": "vuepress dev src",
     "build": "vuepress build src"
   },
-  "repository": "git+https://github.com/youdeliang/youdeliang.github.io.git",
+  "repository": "git+https://github.com/Alicoder114/Alicoder.github.io.git",
   "keywords": [],
   "author": "youdeliang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/youdeliang/youdeliang.github.io/issues"
+    "url": "https://github.com/Alicoder114/Alicoder.github.io/issues"
   },
-  "homepage": "https://github.com/youdeliang/youdeliang.github.io#readme",
+  "homepage": "https://github.com/Alicoder114/Alicoder.github.io#readme",
   "dependencies": {
     "vuepress": "^1.4.1",
     "vuepress-theme-melodydl": "^1.1.2"
